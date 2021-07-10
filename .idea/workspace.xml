@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="380b3cf7-9c42-452d-bfa1-dc303122b26a" name="Default Changelist" comment="created cucumber project fixed some lines">
+    <list default="true" id="380b3cf7-9c42-452d-bfa1-dc303122b26a" name="Default Changelist" comment="added some lines on runner and step definition">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/login.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/step_definitions/Google_StepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/step_definitions/Google_StepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cybertek/runners/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cybertek/runners/CukesRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/googleSearch.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/googleSearch.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cybertek/runners/CukesRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cybertek/runners/CukesRunner.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/features/googleSearch.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/googleSearch.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1625672049833</updated>
       <workItem from="1625672070390" duration="3979000" />
-      <workItem from="1625926023495" duration="5778000" />
+      <workItem from="1625926023495" duration="8805000" />
     </task>
     <task id="LOCAL-00001" summary="created cucumber project fixed some lines">
       <created>1625934083989</created>
@@ -120,7 +122,21 @@
       <option name="project" value="LOCAL" />
       <updated>1625934083989</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added some lines on runner and step definition">
+      <created>1625936379164</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625936379164</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added some lines on runner and step definition">
+      <created>1625936398783</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1625936398783</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,7 +156,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created cucumber project" />
     <MESSAGE value="created cucumber project fixed some lines" />
-    <option name="LAST_COMMIT_MESSAGE" value="created cucumber project fixed some lines" />
+    <MESSAGE value="added some lines on runner and step definition" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some lines on runner and step definition" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
